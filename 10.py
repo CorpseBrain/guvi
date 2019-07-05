@@ -1,2 +1,2 @@
-x=input()
-print(len(x))
+rj=input()
+print(len(rj))
