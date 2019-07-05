@@ -4,8 +4,8 @@ if rj>1:
     if rj%i==0:
       print("no")
       break
-   else:
-      print("yes")
+  else:
+    print("yes")
       
 else:
   print("no")
