@@ -1,3 +1,3 @@
-rj11=int(input())
-rj22=int(input())
-print(rj11**rj22)
+rj1=int(input())
+rj2=int(input())
+print(rj1**rj2)
