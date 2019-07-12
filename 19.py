@@ -1,5 +1,5 @@
-rj=int(input())
-f=1
-for i in range(1,rj+1):
-  f=f*i
-print(f)
+rjj=int(input())
+fa=1
+for i in range(1,rjj+1):
+  fa=fa*i
+print(fa)
